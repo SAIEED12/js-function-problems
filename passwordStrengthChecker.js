@@ -62,3 +62,5 @@ function checkPassword(password){
 
 console.log(checkPassword("HELLO123"));
 console.log(checkPassword("HELLO "));
+
+
